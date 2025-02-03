@@ -16,7 +16,16 @@ Este proyecto es una aplicación web para organizar un juego de "Amigo Secreto".
 - JavaScript
 
 ## Estructura del Proyecto
-/amigo-secreto ├── index.html ├── style.css ├── app.js ├── assets │ ├── amigo-secreto.png │ ├── play_circle_outline.png │ └── Readme.md └── .gitignore
+
+```plaintext
+/amigo-secreto
+├── index.html
+├── style.css
+├── app.js
+├── assets
+│   ├── amigo-secreto.png
+│   ├── play_circle_outline.png
+└── .gitignore
 
 
 ## Instrucciones
