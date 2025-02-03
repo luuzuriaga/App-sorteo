@@ -12,6 +12,12 @@ function agregarAmigo() {
   }
 }
 
+function handleKeyPress(event) {
+  if (event.key === "Enter") {
+    agregarAmigo();
+  }
+}
+
 function sortearAmigo() {
   const lista = document.getElementById("listaAmigos");
   const amigos = lista.getElementsByTagName("li");

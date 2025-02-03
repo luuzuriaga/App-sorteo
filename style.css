@@ -4,7 +4,7 @@
   --color-tertiary: #4e02b9;
   --color-button: #03c032;
   --color-button-hover: #1d9306;
-  --color-text: #747474;
+  --color-text: #525252;
   --color-white: #ffffff;
 }
 
@@ -117,7 +117,7 @@ button {
 
 .button-add {
   background-color: var(--color-tertiary);
-  color: var(--color-text);
+  color: white;
   border-radius: 0 25px 25px 0;
 }
 
