@@ -1,12 +1,12 @@
-# 🎁 Amigo Secreto
+# 🎁 App de Sorteo
 
 Una aplicación web interactiva y moderna para realizar sorteos de amigo secreto de forma rápida y divertida.
 
-![Amigo Secreto](img/home.png)
+![App Sorteo](img/home.png)
 
 ## 📋 Descripción
 
-**Amigo Secreto** es una aplicación web desarrollada con HTML, CSS y JavaScript vanilla que permite organizar sorteos aleatorios entre amigos, familiares o compañeros de trabajo. Con un diseño responsive y una interfaz intuitiva, hace que organizar tu intercambio de regalos sea muy sencillo.
+**App Sortep** es una aplicación web desarrollada con HTML, CSS y JavaScript vanilla que permite organizar sorteos aleatorios entre amigos, familiares o compañeros de trabajo. Con un diseño responsive y una interfaz intuitiva, hace que organizar tu intercambio de regalos sea muy sencillo.
 
 ## ✨ Características
 
