@@ -2,7 +2,7 @@
 
 Una aplicación web interactiva y moderna para realizar sorteos de forma rápida y divertida.
 
-![App Sorteo](img/home.png)
+![App Sorteo](img/home2.png)
 
 ## 📋 Descripción
 
