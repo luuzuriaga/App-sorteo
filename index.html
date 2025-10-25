@@ -25,6 +25,17 @@
 
       <section class="input-section">
         <h2 class="section-title">Digite el nombre de sus amigos</h2>
+
+        <!-- Instrucciones -->
+        <div class="instructions">
+          <p>
+            <strong>¿Cómo funciona?</strong><br />
+            1. Escribe el nombre de cada amigo y presiona "Añadir" o Enter.<br />
+            2. Agrega todos los participantes que desees.<br />
+            3. Haz clic en "Sortear amigo" para elegir al ganador de forma aleatoria.
+          </p>
+        </div>
+
         <div class="input-wrapper">
           <input
             type="text"
@@ -42,7 +53,8 @@
           aria-labelledby="listaAmigos"
           role="list"
         ></ul>
-        <ul id="resultado" class="result-list" aria-live="polite"></ul>
+        
+        <div id="resultado" class="result-container" aria-live="polite"></div>
 
         <div class="button-container">
           <button
@@ -56,10 +68,22 @@
             />
             Sortear amigo
           </button>
+          
+          <button
+            class="button-reset"
+            onclick="reiniciarJuego()"
+            aria-label="Reiniciar juego"
+          >
+            🔄 Reiniciar
+          </button>
         </div>
       </section>
     </main>
 
-    <script src="app.js" defer></script>
+    <footer class="footer">
+      <p>Desarrollado por <strong>Lucero Uzuriaga</strong> © 2025</p>
+    </footer>
+
+    <script src="app.js"></script>
   </body>
 </html>
