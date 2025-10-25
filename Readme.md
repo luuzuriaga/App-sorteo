@@ -1,6 +1,6 @@
 # 🎁 App de Sorteo
 
-Una aplicación web interactiva y moderna para realizar sorteos de amigo secreto de forma rápida y divertida.
+Una aplicación web interactiva y moderna para realizar sorteos de forma rápida y divertida.
 
 ![App Sorteo](img/home.png)
 
